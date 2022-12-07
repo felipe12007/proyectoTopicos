@@ -19,6 +19,8 @@ h6 {
 
 .titulo {
     margin-left: 25px;
+    text-align: center;
+    text-size-adjust: 20px;
 }
 
 .redondeado {

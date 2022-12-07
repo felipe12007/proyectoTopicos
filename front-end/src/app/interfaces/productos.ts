@@ -13,7 +13,6 @@ export interface productos {
     },
     proveedor:{
         type: Object,
-        ref:"Proveedor"
     } 
     stock:{
         type: String,
